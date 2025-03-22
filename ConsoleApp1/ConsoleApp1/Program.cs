@@ -21,13 +21,13 @@ ship1.RemoveContainer(containers[1]); //5
 
 containers[0].EmptyContainer(); //6
 
-ship1.ReplaceContainer(containers[0].serialNumber, containers[3]);
+ship1.ReplaceContainer(containers[0].serialNumber, containers[3]); //7
 
-ship1.MoveContainer(containers[2], ship2);
+ship1.MoveContainer(containers[2], ship2); //8
 
-foreach (var item in containers)
+foreach (var item in containers) 
 {
-    item.Info();
+    item.Info(); //9
 }
-ship1.Info();
+ship1.Info(); //10
 ship2.Info();  

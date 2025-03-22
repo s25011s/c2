@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\apbd\\c2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|d:\\apbd\\c2\\consoleapp1\\consoleapp1\\containership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\containership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|d:\\apbd\\c2\\consoleapp1\\consoleapp1\\gascontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gascontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|d:\\apbd\\c2\\consoleapp1\\consoleapp1\\liquidcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\liquidcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|d:\\apbd\\c2\\consoleapp1\\consoleapp1\\kontener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\kontener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|d:\\apbd\\c2\\consoleapp1\\consoleapp1\\refrigeratedcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\refrigeratedcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|d:\\apbd\\c2\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|d:\\apbd\\c2\\consoleapp1\\consoleapp1\\hazardnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7328A0-4F0A-4FFB-B34A-4E71CBD077A5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\hazardnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContainerShip.cs",
+              "DocumentMoniker": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\ContainerShip.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ContainerShip.cs",
+              "ToolTip": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\ContainerShip.cs*",
+              "RelativeToolTip": "ConsoleApp1\\ContainerShip.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwGcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:06:24.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefrigeratedContainer.cs",
+              "DocumentMoniker": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\RefrigeratedContainer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\RefrigeratedContainer.cs",
+              "ToolTip": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\RefrigeratedContainer.cs",
+              "RelativeToolTip": "ConsoleApp1\\RefrigeratedContainer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wEIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:14:26.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GasContainer.cs",
+              "DocumentMoniker": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\GasContainer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GasContainer.cs",
+              "ToolTip": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\GasContainer.cs",
+              "RelativeToolTip": "ConsoleApp1\\GasContainer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:30:41.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LiquidContainer.cs",
+              "DocumentMoniker": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\LiquidContainer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\LiquidContainer.cs",
+              "ToolTip": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\LiquidContainer.cs",
+              "RelativeToolTip": "ConsoleApp1\\LiquidContainer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:03:57.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kontener.cs",
+              "DocumentMoniker": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\kontener.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\kontener.cs",
+              "ToolTip": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\kontener.cs",
+              "RelativeToolTip": "ConsoleApp1\\kontener.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:05:52.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HazardNotifier.cs",
+              "DocumentMoniker": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\HazardNotifier.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\HazardNotifier.cs",
+              "ToolTip": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\HazardNotifier.cs",
+              "RelativeToolTip": "ConsoleApp1\\HazardNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:01:04.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\apbd\\c2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:18:07.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
