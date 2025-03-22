@@ -2,37 +2,50 @@
 
 public class Container
 {
-    private int wholeMass; //kg
-    private int height; //cm
-    private int conatinerMass; //kg
-    private int depth; //cm
+    protected double cargoMass; //kg
+    protected double height; //cm
+    protected double containerMass; //kg
+    protected double depth; //cm
     public string serialNumber { get; set;} //patern: KON-C-1
+    protected double maxLoad; //kg
 
-    private int maxLoad; //kg
-
-    public Container(int wholeMass, int height, int conatinerMass, int depth, int maxLoad)
+    public Container(int height, int conatinerMass, int depth, int maxLoad)
     {
-        this.wholeMass = wholeMass;
+        this.cargoMass = 0;
         this.height = height;
-        this.conatinerMass = conatinerMass;
+        this.containerMass = conatinerMass;
         this.depth = depth;
         this.maxLoad = maxLoad;
     }
 
     public void EmptyContainer()
     {
-        wholeMass = conatinerMass;    
+        cargoMass = 0;    
     }
 
-    public void LoadContainer(int mass)
+    public virtual void LoadContainer(double mass)
     {
-        if (mass + wholeMass > maxLoad)
+        if (mass + cargoMass > maxLoad)
         {
             throw new Exception("OverfillException");
         }
         else
         {
-            wholeMass += mass;
+            cargoMass += mass;
         }
+    }
+    public double GetCargoMass() { return cargoMass; }
+    public double GetContainerMass() { return containerMass; }
+    public virtual void Info()
+    {
+        Console.WriteLine(
+            $"---CONTAINER INFO---\n" +
+            $"cargo mass - {this.cargoMass} kg\n" +
+            $"height - {this.height}cm\n" +
+            $"container mass - {this.containerMass} kg\n" +
+            $"depth - {this.depth} cm\n" +
+            $"serial number - {this.serialNumber}\n" +
+            $"max load - {this.maxLoad} kg"
+        );
     }
 }
